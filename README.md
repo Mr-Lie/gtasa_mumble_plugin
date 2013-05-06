@@ -18,3 +18,4 @@ Notes
 
 * When talking to someone, for it to work, they must have the plugin installed as well.
 * if you're connected to different servers, it will still transmit positional audio
+* if you're compiling yourself, you HAVE TO compile in release mode
