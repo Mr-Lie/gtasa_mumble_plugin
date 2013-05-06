@@ -4,7 +4,7 @@ GTA:SA Positional audio plugin for Mumble
 Installation
 -------
 
-* Place in your mumble plugin files in the /plugins/ folder
+* Place in your mumble program files in the /plugins/ folder (C:\Program Files\Mumble\Plugins is the default on 32-bit systems, or C:\Program Files (x86)\Mumble\Plugins on 64-bit systems)
 * in the mumble window, go to configure->settings->plugins. (If you don't see this tab, check the "Advanced" checkbox)
 * Check "Link to game and transmit position", and check "Enabled" on GTA:SA:MP
 * Restart mumble.
