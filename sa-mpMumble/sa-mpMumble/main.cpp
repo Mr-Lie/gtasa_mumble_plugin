@@ -40,7 +40,8 @@ static int fetch(float *avatar_pos, float *avatar_front, float *avatar_top, floa
 	float front_corrector[3];
 	float top_corrector[3];
 
-	int player = *(int*)0xB6F5F0;
+	int player;
+	peekProc((BYTE*)0xB6F5F0, &player, 4);
 
 	if(player == 0)
 		return true;
