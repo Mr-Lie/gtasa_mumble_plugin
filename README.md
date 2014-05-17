@@ -1,7 +1,7 @@
 GTA:SA Positional audio plugin for Mumble
 =============
 
-pre-compiled .dll available here: https://www.sixtytiger.com/tiger/random/gtasa.dll
+pre-compiled .dll available here: http://www.sixtytiger.com/tiger/random/gtasa.dll
 
 Installation
 -------
